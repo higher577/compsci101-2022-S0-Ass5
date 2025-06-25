@@ -8,3 +8,5 @@ Worked with python on IDLE.
 When the program is executed, the prompt will ask to "Enter a name:"
 The user will type the name of the txt file name of the pixel pattern. e.g.: "frisky"
 The palette text file need to have the same name of the pixel pattern + "_palette.txt"
+
+The code needs a palette text file and a pixel picture pattern drawn with palette symbols in a txt file.

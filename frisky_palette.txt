@@ -1,0 +1,6 @@
+@:white
+#:brown
+$:gold
+%:black
+&:steelblue1
+*:magenta2
